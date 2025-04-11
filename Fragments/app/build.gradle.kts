@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.relativelayout"
+    namespace = "com.example.fragments"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.relativelayout"
+        applicationId = "com.example.fragments"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
